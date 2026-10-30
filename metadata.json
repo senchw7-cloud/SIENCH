@@ -1,0 +1,6 @@
+{
+  "name": "SIENCH — Dark Luxury Fashion Bags",
+  "description": "Website e-commerce resmi brand tas lokal SIENCH. Own Your Dark Side. Koleksi tas fashion hitam eksklusif, minimalis, dan berkarakter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

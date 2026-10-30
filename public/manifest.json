@@ -1,0 +1,21 @@
+{
+  "name": "SIENCH — Dark Luxury Fashion Bags",
+  "short_name": "SIENCH",
+  "description": "Koleksi tas fashion hitam eksklusif. Own Your Dark Side.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#080808",
+  "theme_color": "#080808",
+  "icons": [
+    {
+      "src": "/images/products/siench-shadow-tote.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/images/products/siench-shadow-tote.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}
